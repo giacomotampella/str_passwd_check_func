@@ -1,7 +1,7 @@
 # str_passwd_check_func
 string password check with functions in C++
 
-Modificare ed estendere l'esercizio in modo tale da creare:
+	Modificare ed estendere l'esercizio in modo tale da creare:
 	- 1) la function str_passwd_check_len che restituisca true se la lunghezza della stringa è compresa tra l'intervallo l_min, l_max (passati come parametri).
 	- 2) la function str_passwd_check_upper che restituisca il numero di lettere maiuscole presenti nella stringa.
 	- 3) la function str_passwd_check_lower che restituisca il numero di lettere minuscole presenti nella stringa.
